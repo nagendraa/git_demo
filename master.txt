@@ -1,4 +1,5 @@
-checking diff
+checking difference in git pull and git fetch :
+----------------------------------------------
 git fetch : at any time to update your remote-tracking branches under refs/remotes/<branch>/. This operation never changes any of your own local branches under refs/heads, and is safe to do without changing your working copy.
 A git pull : what you would do to bring a local branch up-to-date with its remote version, while also updating your other remote-tracking branches.
 
